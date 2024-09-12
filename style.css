@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(252, 253, 255);
+    font-family: "Roboto", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: linear-gradient(to right, purple,rgb(28, 150, 180));
+}
