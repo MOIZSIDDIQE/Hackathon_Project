@@ -52,3 +52,13 @@ fieldset{
     box-shadow: 0px 0px 15px rgb(0, 0, 0);
     border: 2px solid black;
 }
+
+
+legend{
+    font-size: 23px;
+    color: rgb(255, 251, 0);
+    box-shadow: 2px 2px 5px rgb(0, 0, 0);
+    border-radius: 5px;
+    padding: 7px;
+    background-color: black;
+}
