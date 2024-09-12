@@ -26,3 +26,16 @@ form{
     text-align: center;
 }
 
+
+
+label{
+    width: 100%;
+    text-align: start;
+    margin: 10px 0px;
+    color: rgb(175, 28, 12);
+    font-weight: 700;
+}
+
+span{
+    color: black;
+}
