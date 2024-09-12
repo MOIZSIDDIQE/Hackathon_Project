@@ -62,3 +62,11 @@ legend{
     padding: 7px;
     background-color: black;
 }
+
+input,textarea{
+    width: 100%;
+    padding: 10px;
+    border-radius: 7px;
+    border:2px solid rgb(0, 0, 0) ;
+    font-family: 'Courier New', Courier, monospace;
+}
